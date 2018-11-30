@@ -16,5 +16,5 @@ https://www.programiz.com/python-programming/
   7. dictionary
   
 ### Topics for Monday
-  1. Numpy
+  1. Numpy (advantage of numpy over python list)
   2. pandas
