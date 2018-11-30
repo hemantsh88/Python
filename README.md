@@ -1,14 +1,14 @@
 # Python
 ### Topics Covered on 30-11-2018
-  Data types (int, float, complex, string)
-  Docstring (''')
-  print()
-  list
-  tuple
-  set
-  dictionary
+  1. Data types (int, float, complex, string)
+  2. Docstring (''')
+  3. print()
+  4. list
+  5. tuple
+  6. set
+  7. dictionary
   
 ### Topics for Monday
-  Numpy
-  pandas
+  1. Numpy
+  2. pandas
   
