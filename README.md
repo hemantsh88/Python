@@ -1,4 +1,9 @@
 # Python
+## Tutorial Links
+https://www.w3schools.com/python/
+https://realpython.com/
+https://www.programiz.com/python-programming/
+
 ### Topics Covered on 30-11-2018
   1. Data types (int, float, complex, string)
   2. Docstring (''')
