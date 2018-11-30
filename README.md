@@ -11,4 +11,3 @@
 ### Topics for Monday
   1. Numpy
   2. pandas
-  
